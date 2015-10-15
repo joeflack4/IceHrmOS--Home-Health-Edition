@@ -20,7 +20,7 @@ Once the application is installed, refresh the page if necessary. Use the follow
 
 Note: Please rename or delete the install folder (/app/install) since it could pose a security threat to your ICE HRM instance.
 
-## Latest IceHRM(HHE) Release notes, version 1.0.OS
+## Latest IceHRM(HHE) Release notes, Version 1.0.OS
 Features
 
     Pending.
@@ -29,7 +29,7 @@ Fixes
 
     Pending.
 
-## Latest Official ICE HRM Release notes, version v12.6.OS
+## Latest Official ICE HRM Release notes, Version v12.6.OS
 Features
 
     Charts module
