@@ -6,7 +6,7 @@ IceHrmOS--Home-Health-Edition, is a specialized version of the open source versi
 
 ## Installation
 
-There currently no distinction between relase and the source code on this repo. Start by cloning or downloading.
+There is currently no difference between releases and the source code in this repo. Start by cloning or downloading.
 
 Copy the downloaded file to the path you want to install in your server and extract.
 
@@ -14,7 +14,7 @@ Create a MySQL DB to use for this application, and a new user. Grant all databas
 
 Visit ICE HRM installation path in your browser.
 
-During the installation form, fill in details appropriately. You should enter the databse name, user name and password that you previously set up.
+During the installation form, fill in details appropriately. You should enter the database name, user name and password that you previously set up.
 
 Once the application is installed, refresh the page if necessary. Use the following credentials to log in to your ICE HRM instance: Username - admin / Password - admin
 
