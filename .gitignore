@@ -3,6 +3,7 @@
 /app/data
 /app/install
 /app/config.php
+/node_modules
 
 # IceHRM Settings #
 ###################
