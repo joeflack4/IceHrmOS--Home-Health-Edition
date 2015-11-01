@@ -1,7 +1,7 @@
 /**
  * Author: Thilina Hasantha
  */
-
+ 
 function EmployeeAdapter(endPoint) {
 	this.initAdapter(endPoint);
 }
